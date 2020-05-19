@@ -1,33 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c780461.chunk.css",
-    "main.js": "/static/js/main.776342c2.chunk.js",
-    "main.js.map": "/static/js/main.776342c2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.43d11480.js",
-    "runtime-main.js.map": "/static/js/runtime-main.43d11480.js.map",
-    "static/js/2.c3146008.chunk.js": "/static/js/2.c3146008.chunk.js",
-    "static/js/2.c3146008.chunk.js.map": "/static/js/2.c3146008.chunk.js.map",
+    "main.css": "/static/css/main.770d0b46.chunk.css",
+    "main.js": "/static/js/main.83d177e6.chunk.js",
+    "main.js.map": "/static/js/main.83d177e6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f834ba02.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f834ba02.js.map",
+    "static/js/2.919830a5.chunk.js": "/static/js/2.919830a5.chunk.js",
+    "static/js/2.919830a5.chunk.js.map": "/static/js/2.919830a5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c7b03ec482ad8753f5d7372a85158522.js": "/precache-manifest.c7b03ec482ad8753f5d7372a85158522.js",
+    "precache-manifest.4bfedae49e7e1c9a0c205ecd12301ec4.js": "/precache-manifest.4bfedae49e7e1c9a0c205ecd12301ec4.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.6c780461.chunk.css.map": "/static/css/main.6c780461.chunk.css.map",
-    "static/media/Banner_CGD_Sq.png": "/static/media/Banner_CGD_Sq.6c42699d.png",
-    "static/media/Banner_KTB_SQ.png": "/static/media/Banner_KTB_SQ.ed683f12.png",
-    "static/media/Banner_TAT_Hotline_Sq.png": "/static/media/Banner_TAT_Hotline_Sq.1b47ec36.png",
-    "static/media/CGD.png": "/static/media/CGD.093f4f57.png",
-    "static/media/FPO.png": "/static/media/FPO.34f69a5b.png",
-    "static/media/Krungthai.png": "/static/media/Krungthai.8b71f26b.png",
-    "static/media/MOF.png": "/static/media/MOF.398d843b.png",
-    "static/media/MOTS.png": "/static/media/MOTS.09477969.png",
-    "static/media/TAT.png": "/static/media/TAT.2529bd05.png",
-    "static/media/HomePage.scss": "/static/media/banner-right.b28170f0.png",
-    "static/media/Navbar.scss": "/static/media/TATSanaChon-Regular.29c3fec8.woff2",
-    "static/media/banner.png": "/static/media/banner.0b9c7c9c.png"
+    "static/css/main.770d0b46.chunk.css.map": "/static/css/main.770d0b46.chunk.css.map",
+    "static/js/2.919830a5.chunk.js.LICENSE.txt": "/static/js/2.919830a5.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/static/media/avatar.ee629f37.png",
+    "static/media/deposit.png": "/static/media/deposit.748b2620.png",
+    "static/media/log.png": "/static/media/log.01ea526c.png",
+    "static/media/setting.png": "/static/media/setting.626bcd2b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.43d11480.js",
-    "static/js/2.c3146008.chunk.js",
-    "static/css/main.6c780461.chunk.css",
-    "static/js/main.776342c2.chunk.js"
+    "static/js/runtime-main.f834ba02.js",
+    "static/js/2.919830a5.chunk.js",
+    "static/css/main.770d0b46.chunk.css",
+    "static/js/main.83d177e6.chunk.js"
   ]
 }
